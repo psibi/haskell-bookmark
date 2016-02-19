@@ -3,6 +3,11 @@
 * [What are monads fallacy](http://two-wrongs.com/the-what-are-monads-fallacy)
 * [What is a monad?](http://psibi.in/posts/2016-01-14-monads.html)
 
+# Libraries
+
+* [Aeson - Tutorial](https://artyom.me/aeson)
+* [Lens over teal](https://artyom.me/#lens-over-tea)
+
 # Misc
 
 * [What does `* :: *` mean ?](https://www.reddit.com/r/haskell/comments/3ilbsh/type_is_not_in_type/cuhu1sw)
@@ -47,3 +52,4 @@
 
 * [Symbolic differentiation in Haskell](http://5outh.blogspot.in/2013/05/symbolic-calculus-in-haskell.html)
 * [Automatic differentiation](http://jtobin.ca/blog/2014/07/06/automasymbolic-differentiation/)
+
