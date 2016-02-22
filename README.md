@@ -3,10 +3,14 @@
 * [What are monads fallacy](http://two-wrongs.com/the-what-are-monads-fallacy)
 * [What is a monad?](http://psibi.in/posts/2016-01-14-monads.html)
 
+# Streaming
+
+* [Simpler conduit library](http://newartisans.com/2014/06/simpler-conduit-library/) - [Code](https://github.com/jwiegley/simple-conduit)
+
 # Libraries
 
 * [Aeson - Tutorial](https://artyom.me/aeson)
-* [Lens over teal](https://artyom.me/#lens-over-tea)
+* [Lens over tea](https://artyom.me/#lens-over-tea)
 
 # Misc
 
