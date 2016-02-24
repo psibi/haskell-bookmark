@@ -6,6 +6,7 @@
 # Streaming
 
 * [Simpler conduit library](http://newartisans.com/2014/06/simpler-conduit-library/) - [Code](https://github.com/jwiegley/simple-conduit)
+* [Gabriel Gonzalez's - Streams are categories paper](https://groups.google.com/d/msg/haskell-pipes/Ci42Jnqaz50/L8FnQHy6EmoJ)
 
 # Libraries
 
