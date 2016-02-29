@@ -6,6 +6,7 @@
 # Streaming
 
 * [Simpler conduit library](http://newartisans.com/2014/06/simpler-conduit-library/) - [Code](https://github.com/jwiegley/simple-conduit)
+* [Reasoning about streaming - lazy/strict/pipes](https://www.reddit.com/r/haskell/comments/47p0ae/pipesbzip/d0eohne)
 * [Gabriel Gonzalez's - Streams are categories paper](https://groups.google.com/d/msg/haskell-pipes/Ci42Jnqaz50/L8FnQHy6EmoJ)
 
 # Libraries
@@ -30,6 +31,7 @@
 * [The Algebra of ADT- Part 2](https://chris-taylor.github.io/blog/2013/02/11/the-algebra-of-algebraic-data-types-part-ii/)
 * [The Algebra of ADT- Part 3](https://chris-taylor.github.io/blog/2013/02/13/the-algebra-of-algebraic-data-types-part-iii/)
 * [Resource management in Haskell](https://aherrmann.github.io/programming/2016/01/04/resource-management-in-haskell/)
+* [Generics in Haskell](https://www.reddit.com/r/haskell/comments/48b02g/great_examples_of_ghcgenerics/d0i6a3n)
 
 # Template Haskell
 
