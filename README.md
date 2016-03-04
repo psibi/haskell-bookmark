@@ -13,13 +13,12 @@
 
 * [Aeson - Tutorial](https://artyom.me/aeson)
 * [Lens over tea](https://artyom.me/#lens-over-tea)
+* [Tutorial on time library](http://two-wrongs.com/haskell-time-library-tutorial)
+* [Tutorial on Parsing using parsec library](https://github.com/JakeWheat/intro_to_parsing)
 
 # Misc
 
-* [What does `* :: *` mean ?](https://www.reddit.com/r/haskell/comments/3ilbsh/type_is_not_in_type/cuhu1sw)
 * [What is the `#` sign after the type ?](https://www.reddit.com/r/haskell/comments/3im7ha/edward_kmett_unlifted_structures/cuhpsq3)
-* [Tutorial on Parsing using parsec library](https://github.com/JakeWheat/intro_to_parsing)
-* [Tutorial on time library](http://two-wrongs.com/haskell-time-library-tutorial)
 * [Applying Type Level and generic programming in Haskell- 50 Pages pdf](https://github.com/kosmikus/SSGEP/blob/master/LectureNotes.pdf?raw=true)
 * [What is positive, negative nature and contravariant?](https://www.reddit.com/r/haskell/comments/1vc0mp/whats_up_with_contravariant/cer11jw)
 * [Continuation based relative time FRP](http://www.paolocapriotti.com/blog/2012/06/04/continuation-based-relative-time-frp/)
@@ -54,6 +53,11 @@
 # Kinds
 
 * [Types and Kinds and Sorts, Oh My!](http://jozefg.bitbucket.org/posts/2014-02-10-types-kinds-and-sorts.html)
+* [What does `* :: *` mean ?](https://www.reddit.com/r/haskell/comments/3ilbsh/type_is_not_in_type/cuhu1sw)
+
+# GHC Extensions
+
+* [Type Families - Basic introduction](https://cdepillabout.github.io/haskell-type-families-presentation/#/)
 
 # Maths related
 
