@@ -36,7 +36,6 @@
 
 * [Brief introduction to Quasi-Quotation](http://edsko.net/2013/05/09/brief-intro-to-quasi-quotation/)
 
-
 # Alternative Typeclass
 
 * [What does <|> do ?](https://stackoverflow.com/questions/26002415/what-does-haskells-operator-do?rq=1)
@@ -46,10 +45,6 @@
 
 * [Up front unit testing in Haskell](https://github.com/kazu-yamamoto/unit-test-example/blob/master/markdown/en/tutorial.md)
 
-# RankNTypes
-
-* [RankNTypes and scope of forall](https://stackoverflow.com/questions/20401018/rankntypes-and-scope-of-forall)
-
 # Kinds
 
 * [Types and Kinds and Sorts, Oh My!](http://jozefg.bitbucket.org/posts/2014-02-10-types-kinds-and-sorts.html)
@@ -58,6 +53,7 @@
 # GHC Extensions
 
 * [Type Families - Basic introduction](https://cdepillabout.github.io/haskell-type-families-presentation/#/)
+* [RankNTypes and scope of forall](https://stackoverflow.com/questions/20401018/rankntypes-and-scope-of-forall)
 
 # Maths related
 
