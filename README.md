@@ -53,6 +53,7 @@
 # GHC Extensions
 
 * [Type Families - Basic introduction](https://cdepillabout.github.io/haskell-type-families-presentation/#/)
+* [Type Families - type vs data](http://stackoverflow.com/a/20908500/1651941)
 * [RankNTypes and scope of forall](https://stackoverflow.com/questions/20401018/rankntypes-and-scope-of-forall)
 
 # Maths related
