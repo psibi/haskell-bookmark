@@ -31,6 +31,7 @@
 * [The Algebra of ADT- Part 3](https://chris-taylor.github.io/blog/2013/02/13/the-algebra-of-algebraic-data-types-part-iii/)
 * [Resource management in Haskell](https://aherrmann.github.io/programming/2016/01/04/resource-management-in-haskell/)
 * [Generics in Haskell](https://www.reddit.com/r/haskell/comments/48b02g/great_examples_of_ghcgenerics/d0i6a3n)
+* [`unsafePerformIO` and `NOINLINE`](https://www.reddit.com/r/haskell/comments/4owv3p/async_exceptions_stm_and_deadlocks/d4geh38)
 
 # Template Haskell
 
