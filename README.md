@@ -18,6 +18,7 @@
 
 # Misc
 
+* [Pinned/Unpinned](https://www.reddit.com/r/haskell/comments/4xs9vv/neil_mitchells_haskell_blog_the_four_flaws_of/d6i2to2)
 * [What is the `#` sign after the type ?](https://www.reddit.com/r/haskell/comments/3im7ha/edward_kmett_unlifted_structures/cuhpsq3)
 * [Applying Type Level and generic programming in Haskell- 50 Pages pdf](https://github.com/kosmikus/SSGEP/blob/master/LectureNotes.pdf?raw=true)
 * [What is positive, negative nature and contravariant?](https://www.reddit.com/r/haskell/comments/1vc0mp/whats_up_with_contravariant/cer11jw)
