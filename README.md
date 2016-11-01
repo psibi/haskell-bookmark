@@ -16,6 +16,11 @@
 * [Tutorial on time library](http://two-wrongs.com/haskell-time-library-tutorial)
 * [Tutorial on Parsing using parsec library](https://github.com/JakeWheat/intro_to_parsing)
 
+# FFI
+
+* [FFI - Wikibooks](https://en.wikibooks.org/wiki/Haskell/FFI)
+* [Practical example with FFI](https://github.com/ifesdjeen/haskell-ffi-tutorial)
+
 # Misc
 
 * [Pinned/Unpinned](https://www.reddit.com/r/haskell/comments/4xs9vv/neil_mitchells_haskell_blog_the_four_flaws_of/d6i2to2)
