@@ -23,6 +23,7 @@
 
 # Misc
 
+* [How important is laziness in practice?](https://www.reddit.com/r/haskell/comments/5fyg9e/how_important_is_laziness_in_practice/daoc6ra/)
 * [Pinned/Unpinned](https://www.reddit.com/r/haskell/comments/4xs9vv/neil_mitchells_haskell_blog_the_four_flaws_of/d6i2to2)
 * [What is the `#` sign after the type ?](https://www.reddit.com/r/haskell/comments/3im7ha/edward_kmett_unlifted_structures/cuhpsq3)
 * [Applying Type Level and generic programming in Haskell- 50 Pages pdf](https://github.com/kosmikus/SSGEP/blob/master/LectureNotes.pdf?raw=true)
@@ -68,3 +69,6 @@
 * [Symbolic differentiation in Haskell](http://5outh.blogspot.in/2013/05/symbolic-calculus-in-haskell.html)
 * [Automatic differentiation](http://jtobin.ca/blog/2014/07/06/automasymbolic-differentiation/)
 
+# GHC
+
+* [GHC for Hardware persons](https://takenobu-hs.github.io/downloads/haskell_ghc_illustrated.pdf)
