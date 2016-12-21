@@ -40,6 +40,7 @@
 * [Resource management in Haskell](https://aherrmann.github.io/programming/2016/01/04/resource-management-in-haskell/)
 * [Generics in Haskell](https://www.reddit.com/r/haskell/comments/48b02g/great_examples_of_ghcgenerics/d0i6a3n)
 * [`unsafePerformIO` and `NOINLINE`](https://www.reddit.com/r/haskell/comments/4owv3p/async_exceptions_stm_and_deadlocks/d4geh38)
+* [Instances and dictionaries](https://www.schoolofhaskell.com/user/jfischoff/instances-and-dictionaries)
 
 # Template Haskell
 
