@@ -26,7 +26,6 @@
 * [How important is laziness in practice?](https://www.reddit.com/r/haskell/comments/5fyg9e/how_important_is_laziness_in_practice/daoc6ra/)
 * [Pinned/Unpinned](https://www.reddit.com/r/haskell/comments/4xs9vv/neil_mitchells_haskell_blog_the_four_flaws_of/d6i2to2)
 * [What is the `#` sign after the type ?](https://www.reddit.com/r/haskell/comments/3im7ha/edward_kmett_unlifted_structures/cuhpsq3)
-* [`~` in constraints](http://chrisdone.com/posts/haskell-constraint-trick)
 * [Applying Type Level and generic programming in Haskell- 50 Pages pdf](https://github.com/kosmikus/SSGEP/blob/master/LectureNotes.pdf?raw=true)
 * [What is positive, negative nature and contravariant?](https://www.reddit.com/r/haskell/comments/1vc0mp/whats_up_with_contravariant/cer11jw)
 * [Continuation based relative time FRP](http://www.paolocapriotti.com/blog/2012/06/04/continuation-based-relative-time-frp/)
@@ -40,11 +39,17 @@
 * [Resource management in Haskell](https://aherrmann.github.io/programming/2016/01/04/resource-management-in-haskell/)
 * [Generics in Haskell](https://www.reddit.com/r/haskell/comments/48b02g/great_examples_of_ghcgenerics/d0i6a3n)
 * [`unsafePerformIO` and `NOINLINE`](https://www.reddit.com/r/haskell/comments/4owv3p/async_exceptions_stm_and_deadlocks/d4geh38)
-* [Instances and dictionaries](https://www.schoolofhaskell.com/user/jfischoff/instances-and-dictionaries)
 
 # Template Haskell
 
 * [Brief introduction to Quasi-Quotation](http://edsko.net/2013/05/09/brief-intro-to-quasi-quotation/)
+
+# Typeclasses
+
+* [On Typeclass instance selection](https://hackernoon.com/typeclass-instance-selection-fea1068920e6)
+* [Instances and dictionaries](https://www.schoolofhaskell.com/user/jfischoff/instances-and-dictionaries)
+* [Haskell type equality constraints](http://blog.infinitenegativeutility.com/2017/1/haskell-type-equality-constraints)
+* [`~` in constraints](http://chrisdone.com/posts/haskell-constraint-trick)
 
 # Alternative Typeclass
 
