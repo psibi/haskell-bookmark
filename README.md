@@ -2,6 +2,7 @@
 
 * [What are monads fallacy](http://two-wrongs.com/the-what-are-monads-fallacy)
 * [What is a monad?](http://psibi.in/posts/2016-01-14-monads.html)
+* [John Wiegley on Monads in Lisp](https://mail.haskell.org/pipermail/haskell-cafe/2017-April/126792.html)
 
 # Streaming
 
@@ -62,8 +63,10 @@
 
 # Kinds
 
+* [Basic type level programming](http://www.parsonsmatt.org/2017/04/26/basic_type_level_programming_in_haskell.html)
 * [Types and Kinds and Sorts, Oh My!](http://jozefg.bitbucket.org/posts/2014-02-10-types-kinds-and-sorts.html)
 * [What does `* :: *` mean ?](https://www.reddit.com/r/haskell/comments/3ilbsh/type_is_not_in_type/cuhu1sw)
+* [Minimal Servant](https://www.well-typed.com/blog/2015/11/implementing-a-minimal-version-of-haskell-servant/)
 
 # GHC Extensions
 
