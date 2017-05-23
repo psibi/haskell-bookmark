@@ -43,11 +43,13 @@
 
 # Template Haskell
 
+* [Terminology Refresher](https://medium.com/@zw3rk/template-haskell-75c7b67f9718)
 * [Brief introduction to Quasi-Quotation](http://edsko.net/2013/05/09/brief-intro-to-quasi-quotation/)
 
 # Typeclasses
 
 * [On Typeclass instance selection](https://hackernoon.com/typeclass-instance-selection-fea1068920e6)
+* [Typeclass patterns and anti-patterns](https://hackernoon.com/type-class-patterns-and-anti-patterns-efd045c5af66)
 * [Instances and dictionaries](https://www.schoolofhaskell.com/user/jfischoff/instances-and-dictionaries)
 * [Haskell type equality constraints](http://blog.infinitenegativeutility.com/2017/1/haskell-type-equality-constraints)
 * [`~` in constraints](http://chrisdone.com/posts/haskell-constraint-trick)
