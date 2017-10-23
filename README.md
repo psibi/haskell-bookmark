@@ -22,6 +22,10 @@
 * [FFI - Wikibooks](https://en.wikibooks.org/wiki/Haskell/FFI)
 * [Practical example with FFI](https://github.com/ifesdjeen/haskell-ffi-tutorial)
 
+# Performance
+
+* [Inlining and specialization](http://mpickering.github.io/posts/2017-03-20-inlining-and-specialisation.html)
+
 # Misc
 
 * [How important is laziness in practice?](https://www.reddit.com/r/haskell/comments/5fyg9e/how_important_is_laziness_in_practice/daoc6ra/)
