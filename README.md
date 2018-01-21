@@ -3,6 +3,7 @@
 * [What are monads fallacy](http://two-wrongs.com/the-what-are-monads-fallacy)
 * [What is a monad?](http://psibi.in/posts/2016-01-14-monads.html)
 * [John Wiegley on Monads in Lisp](https://mail.haskell.org/pipermail/haskell-cafe/2017-April/126792.html)
+* [On why Reader + IO instead of Writer or State ?](https://www.reddit.com/r/haskell/comments/7r4wie/rio_a_prelude_replacement/dsv7wrd/)
 
 # Streaming
 
