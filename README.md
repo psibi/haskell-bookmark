@@ -26,6 +26,7 @@
 # Performance
 
 * [Inlining and specialization](http://mpickering.github.io/posts/2017-03-20-inlining-and-specialisation.html)
+* [Luke Palmer on determinig if a function is strict](https://stackoverflow.com/a/48455343/1651941)
 
 # Misc
 
