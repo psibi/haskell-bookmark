@@ -22,6 +22,7 @@
 
 * [FFI - Wikibooks](https://en.wikibooks.org/wiki/Haskell/FFI)
 * [Practical example with FFI](https://github.com/ifesdjeen/haskell-ffi-tutorial)
+* [Niklas on Interruptibility, safe etc](http://haskell.1045720.n5.nabble.com/Safe-FFI-and-Blocking-IO-tp5887253p5887276.html)
 
 # Performance
 
